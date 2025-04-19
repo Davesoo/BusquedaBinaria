@@ -2,7 +2,7 @@
 
 ## 📌 Información General
 
-- **Título:** Práctica de Metodos de Busqueda Binarea
+- **Título:** Práctica de Metodos de Busqueda Binaria
 - **Asignatura:** Estructura de Datos
 - **Carrera:** Computación
 - **Estudiante:** [Dave Fernadno Sigüenza Vallejo - Grupo 2]
